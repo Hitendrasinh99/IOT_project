@@ -4,7 +4,7 @@ import Dashboard from "./pages/Dashboard1";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/IOT_project">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />

@@ -1,7 +1,7 @@
 {
   "name": "info655-iot-dashboard",
   "version": "0.1.0",
-  "homepage": "https://your-username.github.io/iot-dashboard",
+  "homepage": "https://hitendrasinh99.github.io/IOT_project",
   "private": true,
   "dependencies": {
     "@tensorflow/tfjs": "^4.22.0",
